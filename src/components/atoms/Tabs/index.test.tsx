@@ -1,3 +1,4 @@
+import '@testing-library/jest-dom';
 import { fireEvent, screen } from "@testing-library/dom";
 import Tabs from "./index";
 import React from "react";

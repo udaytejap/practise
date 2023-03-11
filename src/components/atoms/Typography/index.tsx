@@ -22,6 +22,7 @@ interface TypographyProps {
     | "caption2";
   sx?: React.CSSProperties;
   children?: React.ReactNode;
+  color?:string,
 }
 
 const Typography: React.FC<TypographyProps> = ({
