@@ -1,0 +1,214 @@
+{
+  "wallet": [
+    {
+      "id": 1,
+      "iconUrl": "dollar",
+      "name": "USD Coin",
+      "type": "US Dollar",
+      "totalBalance": "$ 34,000.00"
+    }
+  ],
+  "portfolio": [
+    {
+      "id": 1,
+      "iconUrl": "bitcoin",
+      "name": "Bitcoin",
+      "type": "BTC",
+      "value": "$ 34,000.00",
+      "profit": true,
+      "profitvalue": "+1.06%"
+    },
+    {
+      "id": 2,
+      "iconUrl": "ethereum",
+      "name": "Ethereum",
+      "type": "ETH",
+      "value": "$ 1,297.85",
+      "profit": true,
+      "profitvalue": "+6.85%"
+    },
+    {
+      "id": 3,
+      "iconUrl": "tether",
+      "name": "Tether",
+      "type": "USDT",
+      "value": "$ 74.28",
+      "profit": false,
+      "profitvalue": "-0.01%"
+    }
+  ],
+  "overview": [
+    {
+      "id": 1,
+      "iconUrl": "bitcoin2",
+      "name": "Bitcoin",
+      "type": "BTC",
+      "price": "$3,285,553.73",
+      "profit": true,
+      "profitvalue": "+8.2%",
+      "marketCap": "$64.2T",
+      "vol": "$2.9T",
+      "circulatingSupply": "18.8M BTC",
+      "watchlist": true
+    },
+    {
+      "id": 2,
+      "iconUrl": "ethereum",
+      "name": "Ethereum",
+      "type": "ETH",
+      "price": "$216,678.10",
+      "profit": true,
+      "profitvalue": "+0.64%",
+      "marketCap": "$162.92B",
+      "vol": "$11.5B",
+      "circulatingSupply": "122.60M ETH",
+      "watchlist": false
+    },
+    {
+      "id": 3,
+      "iconUrl": "ethereum2",
+      "name": "Ethereum 2",
+      "type": "ETH2",
+      "price": "$216,678.10",
+      "profit": false,
+      "profitvalue": "-5.49%",
+      "marketCap": "$25.2T",
+      "vol": "$2.9T",
+      "circulatingSupply": "18.8M BTC",
+      "watchlist": true
+    },
+    {
+      "id": 4,
+      "iconUrl": "tether",
+      "name": "Tether",
+      "type": "USDT",
+      "price": "$74.31",
+      "profit": true,
+      "profitvalue": "+0.11%",
+      "marketCap": "$4.6T",
+      "vol": "$2.9T",
+      "circulatingSupply": "18.8M BTC",
+      "watchlist": true
+    },
+    {
+      "id": 5,
+      "iconUrl": "bitcoinCoin",
+      "name": "Bitcoin Coin",
+      "type": "BNB",
+      "price": "$24,942.54",
+      "profit": false,
+      "profitvalue": "-3.69%",
+      "marketCap": "$4.2T",
+      "vol": "$2.9T",
+      "circulatingSupply": "18.8M BTC",
+      "watchlist": true
+    },
+    {
+      "id": 6,
+      "iconUrl": "cardano",
+      "name": "Cardano",
+      "type": "ADA",
+      "price": "$104.52",
+      "profit": false,
+      "profitvalue": "-1.82%",
+      "marketCap": "$3.4T",
+      "vol": "$2.9T",
+      "circulatingSupply": "18.8M BTC",
+      "watchlist": false
+    },
+    {
+      "id": 7,
+      "iconUrl": "xrp",
+      "name": "XRP",
+      "type": "XRP",
+      "price": "$57.21",
+      "profit": true,
+      "profitvalue": "+1.11%",
+      "marketCap": "$2.7T",
+      "vol": "$2.9T",
+      "circulatingSupply": "18.8M BTC",
+      "watchlist": false
+    },
+    {
+      "id": 8,
+      "iconUrl": "dodge",
+      "name": "Dodge Coin",
+      "type": "XRP",
+      "price": "$17.64",
+      "profit": false,
+      "profitvalue": "-6.96%",
+      "marketCap": "$2.3T",
+      "vol": "$2.9T",
+      "circulatingSupply": "18.8M BTC",
+      "watchlist": false
+    },
+    {
+      "id": 9,
+      "iconUrl": "usd",
+      "name": "USD Coin",
+      "type": "XRP",
+      "price": "$74.26",
+      "profit": true,
+      "profitvalue": "+1.01%",
+      "marketCap": "$2.1T",
+      "vol": "$2.9T",
+      "circulatingSupply": "18.8M BTC",
+      "watchlist": false
+    },
+    {
+      "id": 10,
+      "iconUrl": "polkadot",
+      "name": "Polkadot",
+      "type": "DOT",
+      "price": "$1,642.39",
+      "profit": true,
+      "profitvalue": "+1.01%",
+      "marketCap": "$2.1T",
+      "vol": "$2.5T",
+      "circulatingSupply": "12.8M BTC",
+      "watchlist": false
+    }
+  ],
+  "transactions": [
+    {
+      "id": 1,
+      "data": "2015-02-28T12:00:00Z",
+      "name": "Bitcoin",
+      "purchasedFrom": "Badgley",
+      "statusIcon": "warning",
+      "status": "Purchased",
+      "transactionBTC": "+0.0010 BTC",
+      "transactionAmount": "+$900"
+    },
+    {
+      "id": 2,
+      "data": "2015-02-25T12:00:00Z",
+      "name": "Bitcoin",
+      "purchasedFrom": "Jane Cooper",
+      "statusIcon": "error",
+      "status": "Purchased",
+      "transactionBTC": "+0.0230 BTC",
+      "transactionAmount": "+$1800"
+    },
+    {
+      "id": 3,
+      "data": "2015-02-20T12:00:00Z",
+      "name": "Bitcoin",
+      "purchasedFrom": "Leslie Alexander",
+      "statusIcon": "success",
+      "status": "Purchased",
+      "transactionBTC": "+0.0030 BTC",
+      "transactionAmount": "+$1200"
+    },
+    {
+      "id": 4,
+      "data": "2015-02-18T12:00:00Z",
+      "name": "Bitcoin",
+      "purchasedFrom": "Guy Hawkins",
+      "statusIcon": "success",
+      "status": "Purchased",
+      "transactionBTC": "+0.0150 BTC",
+      "transactionAmount": "+$1000"
+    }
+  ]
+}
